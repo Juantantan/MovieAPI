@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1502,
+    "release_Date": "1977-09-14T00:00:00",
+    "title": "Spider-Man",
+    "overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+    "popularity": 50.753,
+    "vote_Count": 77,
+    "vote_Average": 5.5,
+    "original_Language": "en",
+    "genre": "Science Fiction, Action, Crime, TV Movie",
+    "poster_Url": "https://image.tmdb.org/t/p/original/e7pbfh9GWn2oj72aEpUG8IH31dH.jpg"
+  },
+  {
+    "id": 4069,
+    "release_Date": "1978-12-21T00:00:00",
+    "title": "Spider-Man Strikes Back",
+    "overview": "At the New York State University, one of Peter Parker's tutors has accidentally given three students all the materials they need to create an atomic bomb. While Peter Parker tries to find out what's happened, the police suspect him of the crime, and Peter has to deal with an attractive journalist determined to get an interview with Spider-Man. Then dastardly millionaire Mr. White shows up, and will stop at nothing to get his hands on the atomic bomb. Spider-Man must defeat this scheming villain and stop him blowing up the World Trade Centre.",
+    "popularity": 24.244,
+    "vote_Count": 34,
+    "vote_Average": 5.2,
+    "original_Language": "en",
+    "genre": "Action, Adventure, Family, Fantasy, TV Movie",
+    "poster_Url": "https://image.tmdb.org/t/p/original/fb5R5DUOT4NfhZn8903c1gYGHJz.jpg"
+  },
+  {
+    "id": 5742,
+    "release_Date": "2001-04-06T00:00:00",
+    "title": "Along Came a Spider",
+    "overview": "After the harrowing death of his partner, detective and best-selling author Alex Cross has retreated to the peace of retirement. But when a brilliant criminal kidnaps a senator's young daughter, Alex is lured back into action. Teamed with the Secret Service agent assigned to protect the missing girl, Alex follows a serpentine trail of clues that leads him to a stunning discovery - the kidnapper wants more than just ransom.",
+    "popularity": 19.085,
+    "vote_Count": 1406,
+    "vote_Average": 6.3,
+    "original_Language": "en",
+    "genre": "Crime, Mystery, Thriller, Action",
+    "poster_Url": "https://image.tmdb.org/t/p/original/1YtsND7vSNymylnOSzgg3DdVFMB.jpg"
+  },
+  {
+    "id": 7951,
+    "release_Date": "2002-04-20T00:00:00",
+    "title": "Beyond the Ultimate Spin: The Making of 'Spider-Man'",
+    "overview": "Documentary on the making of 'Spider-Man.'",
+    "popularity": 15.325,
+    "vote_Count": 2,
+    "vote_Average": 3.5,
+    "original_Language": "en",
+    "genre": "Documentary",
+    "poster_Url": "https://image.tmdb.org/t/p/original/oPS6xwFz5Ej9s7LvkGHtOukJTrC.jpg"
+  },
+  {
+    "id": 173,
+    "release_Date": "2002-05-01T00:00:00",
+    "title": "Spider-Man",
+    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+    "popularity": 206.376,
+    "vote_Count": 15336,
+    "vote_Average": 7.2,
+    "original_Language": "en",
+    "genre": "Fantasy, Action",
+    "poster_Url": "https://image.tmdb.org/t/p/original/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg"
+  }
+]
