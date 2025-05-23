@@ -1,7 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using MovieAPI.Models;
 
-namespace MovieAPI.Interfaces
+namespace MovieAPI.Models
 {
     /// <summary>
     /// Class to hold retrieved Movie Data
