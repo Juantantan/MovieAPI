@@ -43,6 +43,7 @@ As of 23/05/2025, the Docker functionality is problematic. The target was set to
 - Add descending Sort Ordering. All sorts are ascending currently
 - Tidy up Docker and create images
 - Create more unit tests and then functional tests to reproduce Client actions
+- Prepare Cloud LIVE Deployment
 
 
 
